@@ -9,6 +9,8 @@ tags:
   - hola
   - mundo
 ---
+![camino](/img/camino.jpg "camino")
+
 ¡Empieza una nueva aventura! 
 
 Me presento. Me llamo Jesus Guzman. Soy un ingeniero en informática, soy autodidacta, soy un amante de la tecnología y me gusta compartir conocimiento. 
