@@ -4,7 +4,7 @@ title: Hola Mundo
 date: 2019-12-17T04:50:47.605Z
 description: Primer post.
 featuredpost: true
-featuredimage: /img/camino.jpg
+featuredimage: /img/chemex.jpg
 tags:
   - hola
   - mundo
