@@ -17,17 +17,17 @@ tags:
 ---
 ## La estrategia
 
-La estrategia es muy simple. Se trata en destinar un porcentaje de tus ahorros mensuales, porque todos ahorramos algo de dinero mensual, y con ese porcentaje hacer compras escalonadas durante el mes. En mi caso hago 4 compras durante el mes y lo hago cada semana los días viernes. Por ejemplo, si decidí comprar $100 de BTC al mes, entonces estoy comprando $25 dolares cada viernes. 
+La estrategia es muy simple. Se trata en destinar un porcentaje de tus ahorros mensuales, porque todos ahorramos algo de dinero mensual, y con ese porcentaje hacer compras escalonadas durante el mes. En mi caso hago 4 compras durante el mes y lo hago cada semana los viernes. Por ejemplo, si decidí comprar $100 de BTC al mes, entonces estoy comprando $25 cada viernes. 
 
 Para hacer las compras utilizo mi tarjeta de crédito, porque parte de la estrategia contempla hacer un record crediticio y ganar puntos, todo esto al comprar Bitcoin. Tenemos que aprovechar todos los beneficios que la banca tradicional nos da mientras nos migramos a Bitcoin :)
 
-La idea de tras de esta estrategia es poder de alguna forma mitigar el riesgo haciendo varias compras y de esta forma **promediar el precio de compra de Bitcoin y con esto reducir el riesgo de perdida**. 
+La idea de tras de esta estrategia es poder de alguna forma mitigar el riesgo haciendo varias compras y de esta forma **promediar el precio de compra de Bitcoin y con esto reducir el riesgo de pérdida**. 
 
-Claro que pueden decidir hacer una única compra mensual o hacer más de cuatro, pero recuerden que entre mas compras hagan mejor sera el promedio del precio de Bitcoin al que hayan comprado y de esta forma podrán maximizar sus ganancias. 
+Claro que pueden decidir hacer una única compra mensual o hacer más de cuatro, pero recuerden que entre más compras hagan mejor sera el promedio del precio de Bitcoin al que hayan comprado y de esta forma podrán maximizar sus ganancias. 
 
 ## Donde Comprar
 
-Bueno ahora en donde pueden comprar Bitcoin. Lo mejor es tener algún amigo o conocido de confianza con el cual podamos tener un buen acuerdo de compra/venta. Si no tienen ningún conocido de confianza, recomiendo usar el sitio <https://cex.io/>, el cual llevo usando más de 3 años y por el momento no me ha dado ningún problema. En CEX.IO pueden comprar Bitcoin y otras criptomonedas usando una tarjeta de Crédito, esta disponible para muchos países y la APP para el celular es fantástica. Les dejo este enlace donde pueden ver que desde que países es posible usar CEX.IO ya sea para depósitos o retiros de criptomonedas o fiat <https://cex.io/limits-commissions>.
+Bueno ahora en donde pueden comprar Bitcoin. Lo mejor es tener algún amigo o conocido de confianza con el cual podamos tener un buen acuerdo de compra/venta. Si no tienen ningún conocido de confianza, recomiendo usar el sitio <https://cex.io/>, el cual llevo usando más de 3 años y por el momento no me ha dado ningún problema. En CEX.IO pueden comprar Bitcoin y otras criptomonedas usando una tarjeta de Crédito, está disponible para muchos países y la APP para el celular es fantástica. Les dejo este enlace donde pueden ver que desde que países es posible usar CEX.IO ya sea para depósitos o retiros de criptomonedas o fiat <https://cex.io/limits-commissions>.
 
 ## Donde guardar tus Bitcoins
 
@@ -35,11 +35,11 @@ En mi caso únicamente voy a mantener en CEX.IO las compras de un mes, luego mov
 
 ## Mi experiencia
 
-Al momento de este post ya he realizado 3 compras, todas sin problemas, pero ya empieza a aumentar la ansiedad de ver como el precio fluctúa y querer hacer trading. Para solucionarlo lo que hago es mentalizarme en tocar la aplicación de compra únicamente los viernes y mover mi capital a mi cuenta de reserva (Celsius) donde no se puede hacer trading. Soy malo para el trading, la ansiedad me mata y llega a consumirme mucho tiempo, pero si tu crees que puedes controlarlo creo que seria interesante poder hacer trading únicamente con el dinero de un mes, luego de eso deberías de mover tu capital a tu cuenta de reserva. 
+Al momento de este post ya he realizado 3 compras, todas sin problemas, pero ya empieza a aumentar la ansiedad de ver como el precio fluctúa y querer hacer trading. Para solucionarlo lo que hago es mentalizarme en tocar la aplicación de compra únicamente los viernes y mover mi capital a mi cuenta de reserva (Celsius) donde no se puede hacer trading. Soy malo para el trading, la ansiedad me mata y llega a consumirme mucho tiempo, pero si tú crees que puedes controlarlo creo que sería interesante poder hacer trading únicamente con el dinero de un mes, luego de eso deberías de mover tu capital a tu cuenta de reserva. 
 
 ## Bitcoin siempre sube
 
-Por ultimo debemos apostar que Bitcoin siempre tiene una tendencia alcista con lo cual nuestros ahorros siempre se van a multiplicar. También debemos de recordar que el halving de Bitcoin va a ser en mayo de este año, con lo cual la producción de bitcoins se reduce a la mitad, de 12.5 a 6.25 bitcoins por bloque. 
+Por último, debemos apostar que Bitcoin siempre tiene una tendencia alcista con lo cual nuestros ahorros siempre se van a multiplicar. También debemos de recordar que el halving de Bitcoin va a ser en mayo de este año, con lo cual la producción de bitcoins se reduce a la mitad, de 12.5 a 6.25 bitcoins por bloque. 
 
 Les dejo un indicador interesante que nos dice a donde puede ir el precio de Bitcoin en los próximos años. <https://digitalik.net/btc/>.
 
