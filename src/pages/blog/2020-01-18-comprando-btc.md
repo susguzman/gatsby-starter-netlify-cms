@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Comprando BTC
+title: Estrategia de compra de Bitcoin
 date: 2020-01-19T02:52:19.317Z
 description: >-
   En uno de mis últimos post había escrito que iba a explicar cual es mi
