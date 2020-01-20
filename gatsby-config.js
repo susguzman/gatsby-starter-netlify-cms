@@ -80,5 +80,11 @@ module.exports = {
         trackingId: "UA-126910462-2",
       },
     },
+    {
+      resolve: `gatsby-plugin-disqus`,
+      options: {
+        shortname: `jesus-guzman-blog`
+      }
+    },
   ],
 }
